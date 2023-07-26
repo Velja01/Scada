@@ -1,0 +1,18 @@
+C:\Users\strah\OneDrive\Dokumenti\Faks\Scada\scada materijali\dCom\Modbus\bin\Debug\Modbus.dll
+C:\Users\strah\OneDrive\Dokumenti\Faks\Scada\scada materijali\dCom\Modbus\bin\Debug\Modbus.pdb
+C:\Users\strah\OneDrive\Dokumenti\Faks\Scada\scada materijali\dCom\Modbus\bin\Debug\Common.dll
+C:\Users\strah\OneDrive\Dokumenti\Faks\Scada\scada materijali\dCom\Modbus\bin\Debug\Common.pdb
+C:\Users\strah\OneDrive\Dokumenti\Faks\Scada\scada materijali\dCom\Modbus\obj\Debug\Modbus.csproj.AssemblyReference.cache
+C:\Users\strah\OneDrive\Dokumenti\Faks\Scada\scada materijali\dCom\Modbus\obj\Debug\Modbus.csproj.CoreCompileInputs.cache
+C:\Users\strah\OneDrive\Dokumenti\Faks\Scada\scada materijali\dCom\Modbus\obj\Debug\Modbus.csproj.CopyComplete
+C:\Users\strah\OneDrive\Dokumenti\Faks\Scada\scada materijali\dCom\Modbus\obj\Debug\Modbus.dll
+C:\Users\strah\OneDrive\Dokumenti\Faks\Scada\scada materijali\dCom\Modbus\obj\Debug\Modbus.pdb
+C:\Users\strah\OneDrive\Dokumenti\GitHub\scada\dCom\Modbus\bin\Debug\Modbus.dll
+C:\Users\strah\OneDrive\Dokumenti\GitHub\scada\dCom\Modbus\bin\Debug\Modbus.pdb
+C:\Users\strah\OneDrive\Dokumenti\GitHub\scada\dCom\Modbus\bin\Debug\Common.dll
+C:\Users\strah\OneDrive\Dokumenti\GitHub\scada\dCom\Modbus\bin\Debug\Common.pdb
+C:\Users\strah\OneDrive\Dokumenti\GitHub\scada\dCom\Modbus\obj\Debug\Modbus.csproj.AssemblyReference.cache
+C:\Users\strah\OneDrive\Dokumenti\GitHub\scada\dCom\Modbus\obj\Debug\Modbus.csproj.CoreCompileInputs.cache
+C:\Users\strah\OneDrive\Dokumenti\GitHub\scada\dCom\Modbus\obj\Debug\Modbus.csproj.CopyComplete
+C:\Users\strah\OneDrive\Dokumenti\GitHub\scada\dCom\Modbus\obj\Debug\Modbus.dll
+C:\Users\strah\OneDrive\Dokumenti\GitHub\scada\dCom\Modbus\obj\Debug\Modbus.pdb

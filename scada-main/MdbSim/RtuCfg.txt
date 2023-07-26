@@ -1,0 +1,8 @@
+STA 15
+TCP 25252
+
+
+HR_INT  1 1000  0  0    800   400  AO  @Udaljenost_kapije_od_w1 1 1 0 600 20 # 800 0
+DI_REG  1 2000  0  0      1     0  DI  @Indikacije_prepreke 1 # # 0 1 1 0 1
+DO_REG  1 3000  0  0      1     0  DO  @Open 1 # # 0 1 1 0 1
+DO_REG  1 3001  0  0      1     0  DO  @Close 1 # # 0 1 1 0 1                
